@@ -21,7 +21,8 @@
 ---
 
 
-
+* ROLAP
+* MOLAP
 
 
 # 数仓设计
@@ -48,3 +49,6 @@
 * [数据库schema设计与优化](https://mp.weixin.qq.com/s?__biz=MzA3MDQ4MzQzMg==&mid=408424029&idx=1&sn=8ddc22bd6da7409cd4b4e60040ad3126&scene=0#wechat_redirect)
 * [回归、分类与聚类：三大方向剖解机器学习算法的优缺点](https://blog.csdn.net/starzhou/article/details/72614795)
 * [深入浅出数据仓库中SQL性能优化之Hive篇](https://www.csdn.net/article/2015-01-13/2823530)
+
+
+
