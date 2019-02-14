@@ -20,3 +20,6 @@
 
 # 参考文献
 * [PowerDesigner 16.5 汉化破解版安装教程](https://blog.csdn.net/sinat_34104446/article/details/79885141)
+* MySQL Workbench
+* Navicat Data Modeler
+* Aqua Data Studio
