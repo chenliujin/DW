@@ -24,6 +24,7 @@
 * 交互图
 * 状态图
 * 时序图
+* 流程图/活动图
 
 # 参考文献
 * [PowerDesigner 16.5 汉化破解版安装教程](https://blog.csdn.net/sinat_34104446/article/details/79885141)
